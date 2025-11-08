@@ -13,7 +13,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Author](#author)
 
 ## Overview
-The challenge is to build out a recipe page and get it looking as close to the design as possible.
+The challenge is to build a recipe page and get it looking as close to the design as possible.
 
 ### Screenshot
 
@@ -21,8 +21,8 @@ The challenge is to build out a recipe page and get it looking as close to the d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/omeletterecipepage-6838ohLmks)
+- Live Site URL: [Live URL](https://omeletteeggrecipepage.netlify.app/)
 
 ## My process
 
